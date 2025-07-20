@@ -97,7 +97,7 @@
   }
   * .navigation .nav.active a {
     display: block;
-    color: #06402B;
+    color: #fff;
   }
   * .navigation .nav.active .border-b {
     border-bottom: none;
@@ -147,7 +147,7 @@
 @media only screen and (max-width: 920px) {
   * .hamburger {
     display: block;
-    color: #06402B;
+    color: rgb(119, 174, 9);
     padding: 6px 20px;
     font-size: 1.7rem;
   }
